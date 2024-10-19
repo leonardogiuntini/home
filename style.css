@@ -104,7 +104,6 @@ div {
     display: flex;
     flex-direction: column;
     text-align: center;
-    background-color: rgb(26, 24, 24);
     margin-bottom: 3vw;
     background-image: url(backgrounds/background3.jpg);
     background-size: cover;
