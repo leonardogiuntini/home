@@ -136,7 +136,7 @@ div {
   }
 
   .cv {
-    font-size: 2.8vw;
+    font-size: clamp(10px, 3vw, 22px);
     color: black;
     text-align: left;
     background-color: hsla(0, 0%, 100%, 0.918);
